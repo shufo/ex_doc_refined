@@ -15,6 +15,11 @@
           class="display-1 primary--text"
           ellipsis
         >
+          <v-progress-circular
+            v-if="modules.length == 0"
+            indeterminate
+            color="purple"
+          ></v-progress-circular>
           <p class="display-1 primary--text text-truncate">
             {{ docs.module_name }}
           </p>
