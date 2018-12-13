@@ -4,7 +4,7 @@ A refined document viewer for Elixir and Phoenix
 
 ## Overview
 
-<a href="https://i.imgur.com/VKfg3yz.gif"><img src="https://i.imgur.com/VKfg3yz.gif"></a>
+![Imgur](https://i.imgur.com/mlU1I2b.gif)
 
 ### Features
 
