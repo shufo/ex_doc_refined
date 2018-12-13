@@ -22,7 +22,7 @@ A refined document viewer for Elixir and Phoenix
 ```elixir
 def deps do
   [
-    {:ex_doc_refined, "~> 0.1.0", only: [:dev]}
+    {:ex_doc_refined, "~> 0.1.1", only: [:dev]}
   ]
 end
 ```
